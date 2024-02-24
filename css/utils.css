@@ -1,0 +1,77 @@
+:root {
+    --main-bg-color: #bd6418;
+    --font1:  font-family: "Lato", sans-serif;
+    --font2: font-family: "Roboto", sans-serif;
+}
+
+.center{
+    text-align: center;
+}
+.font-bold{
+    font-weight: bold;
+}
+
+.font1{
+    font-family: "Lato", sans-serif;
+}
+.font2{
+    
+font-family: "Roboto", sans-serif;;
+}
+
+.mx-1{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.max-width-1{
+    max-width: 80vw;
+}
+
+.max-width-2{
+    max-width: 60vw;
+}
+
+.m-auto{
+    margin: auto;
+}
+
+.my-2{
+    margin-bottom: 32px;
+    margin-top: 32px;
+}
+.btn{
+    padding: 4px 15px;
+    border: 2px solid #101010;
+    border-radius: 6px;
+    font-family: var(--font1);
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn:hover{
+    color: white;
+    background: #bd6418;
+}
+
+.form-box input, textarea{
+    width: 52vw;
+    padding: 8px 6px;
+    margin: 7px 0;
+    font-family: var(--font1);
+    font-size: 18px;
+    border: 2px solid #bd6418;
+    border-radius: 10px ;
+}
+
+
+.form-input{
+    padding: 4px 5px;
+    font-size: 16px;
+    border: 2px solid black;
+    border-radius: 4px;
+    margin: 0 13px;
+    font-family: var(--font1); 
+}
+
