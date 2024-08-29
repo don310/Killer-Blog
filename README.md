@@ -3,7 +3,7 @@
 ![img](https://github.com/don310/Killer-Blog/blob/main/img/proj_5.png)
 
 <h1>Featured Blogs</h1>
-![img](https://github.com/don310/Killer-Blog/blob/main/img/proj_5.png)
+![img](https://github.com/don310/Killer-Blog/blob/main/img/pr_5.png)
 
 <h1>Contact Management</h1>
-![img](https://github.com/don310/Killer-Blog/blob/main/img/proj_5.png)
+![img](https://github.com/don310/Killer-Blog/blob/main/img/pr_6.png)
